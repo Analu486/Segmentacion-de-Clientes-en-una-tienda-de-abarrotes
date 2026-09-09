@@ -1,6 +1,6 @@
-# 🛒 Customer-Segmentation-for-a-Grocery-Store
+# 🛒 Supply-Chain-Demand-Analytics-and-Customer-Segmentation
 
-Processing, analysis, and segmentation of a new customer ecosystem to standardize customer profiles, increase retention with minimal investment, and generate higher revenue for the organization.
+Processing, analysis, and demand segmentation to optimize inventory replenishment, align procurement strategies with customer purchasing patterns, and maximize SKU profitability.
 
 ## 🎯 Introduction:
 Behavioral analysis of a grocery store from August 2023 to 2025 to develop a customer ecosystem and efficiently target loyalty program touchpoints.
